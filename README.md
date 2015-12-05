@@ -6,6 +6,7 @@ Fall 2015
 * Emily Ahn
 * Emily Chen
 * Elizabeth Hau
+* Hello World
 
 ### Which data to look at
 1. _go to /data/clean_
